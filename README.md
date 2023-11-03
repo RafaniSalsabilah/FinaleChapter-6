@@ -1,4 +1,4 @@
-# FinaleChapter-5
+# FinaleChapter-6
 Untuk menjalankan aplikasi ini harus dilakukan beberapa instalasi seperti berikut:
 - yarn install
 - install tailwind
