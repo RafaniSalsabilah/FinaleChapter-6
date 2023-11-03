@@ -6,6 +6,7 @@ Untuk menjalankan aplikasi ini harus dilakukan beberapa instalasi seperti beriku
 - yarn add axios
 - yarn add react-query
 - yarn add @tanstack/react-query
+- yarn add react-icons --save
 - npm install swiper
 - npm install --save @rsuite/icons
 - npm install --save @fortawesome/fontawesome-free
